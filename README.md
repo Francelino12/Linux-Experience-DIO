@@ -1,2 +1,3 @@
-# Linux-Experience-DIO
-Projetos
+# BootCamp Linux Experience DIO
+- Projetos
+- Estudos
